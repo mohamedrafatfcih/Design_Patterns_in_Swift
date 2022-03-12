@@ -1,2 +1,2 @@
-# Design_Patterns_in_Swift
-Design Patterns using Swift.
+# Design Patterns in Swift
+Brief intuition about design patterns with examples using swift language.
